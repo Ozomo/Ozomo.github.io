@@ -1,0 +1,14 @@
+text{
+    font-size: 22px;
+    font-family: Candara;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 50px;
+    background:linear-gradient(45deg, blue, green, orange) ;
+}
