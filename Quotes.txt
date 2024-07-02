@@ -13,7 +13,7 @@ Szlug w 3> osoby
 Zmiana płatności
 Wywaliło KDS/POS
 Rzygi
-Błędy w kartach/gotówce
+Błędy w kartach/ gotówce
 Cała inwa na minusie
 Biegające dzieci
 Kuchnia pierwsza skończyła
@@ -34,3 +34,4 @@ Sala pierwsza skończyła
 Ktoś uciekł
 Roberto Carlos
 Skarga do menago
+Zranienie/ oparzenie
