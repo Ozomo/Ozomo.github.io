@@ -42,3 +42,4 @@ Puste patio
 Brak kelnerów na sali
 Chujowe otwarcie
 Chujowa zeta
+Stały klient
