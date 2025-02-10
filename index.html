@@ -6,11 +6,39 @@
 </HEAD>
 <BODY>
 <table style="width: 100%">
-        <label for="textarea">Wpisz swój tekst:</label>
-
+    <tr>
+        <th>
+            <label for="textarea">Przesyłanie tekstu</label>
+        </th>
+        <th>
+            <label for="file-upload">Przesyłanie pliku</label>
+        </th>
+    </tr>
+    <tr>
+        <th>
             <textarea id="textarea" rows="5" cols="30" placeholder="Wpisz tutaj..."></textarea>
-<button >Przesyłanie pliku</button>
-<button id="save-button">Przesyłanie tekstu</button>
-<script src="script.js"></script>
+        </th>
+        <th>
+            <input type="file" id="file-upload" />
+        </th>
+
+    </tr>
+    <tr>
+        <th>
+            <button id="save-button">Tekst</button>
+        </th>
+        <th>
+            <button id="upload-button">Plik</button>
+        </th>
+    </tr>
+      
+
+            
+
+
+
+</table>
+<script src="script_4_save.js"></script>
+<script src="script_4_upload.js"></script>
 </BODY>
 </HTML>
